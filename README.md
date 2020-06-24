@@ -1,6 +1,6 @@
-# Html-images
 <html>
   <body>
-    <img src="C:\Users\Goutham pandi\Desktop\7p3n840.jpg" alt="my photo" width="420" height="420">
+    <img src="C:\Users\Goutham pandi\Desktop\7p3n840.jpg" alt="my photo" style="float:right;width:420px;height:420px;">
   </body>
 </html>
+
